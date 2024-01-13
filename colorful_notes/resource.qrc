@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/paint-palette.png</file>
+        <file>icons/redo (2).png</file>
+        <file>icons/undo (1).png</file>
+        <file>icons/pasteicon.png</file>
+        <file>icons/type.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/plus (1).png</file>
+        <file>icons/bin (1).png</file>
+        <file>icons/art.png</file>
+        <file>icons/cut.png</file>
+    </qresource>
+</RCC>
